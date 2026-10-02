@@ -1,4 +1,4 @@
-# Hi there, I'm [Muhamad Syahlani] 👋
+# Hi there, I'm Muhamad Syahlani 👋
 
 🎓 **Informatics Engineering Student** at Universitas Indraprasta PGRI (Unindra)  
 🌱 Currently exploring the world of programming and software development  
