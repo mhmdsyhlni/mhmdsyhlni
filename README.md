@@ -21,7 +21,7 @@
 ### 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LU&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deloon&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
 </p>
 
 ---
